@@ -6,7 +6,7 @@
         "characterImage": "assets/rive/luna.riv",
         "stateMachineCharacterRive": "State Machine 1",
         "smTriggerBackgroundRive": "T1",
-        "text": "Пусто",
+        "text": "Упс! Данная ветка истории находится в разработке, желаете начать с начала?\nВы так же можете поддержать разработку игры:",
         "backgroundImage": "assets/rive/luna_back_room.riv",
         "stateMachineBackgroundRive": "SM1",
         "nextDialogueId": "0",

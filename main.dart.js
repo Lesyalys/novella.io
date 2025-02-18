@@ -83512,9 +83512,9 @@ R(a){var s,r,q,p,o,n,m,l=this,k=null,j=".riv",i="Inknut_Antiqua",h=t.oc,g=a.aH(h
 if(e==null)e=l.z
 g=a.aH(h)
 s=(g==null?h.a(g):g).f.a
-$label0$0:{if("luna"===s){h=A.ps().a
-break $label0$0}if("dracula"===s){h=A.ps().b
-break $label0$0}if("clo"===s){h=A.ps().c
+$label0$0:{if("Luna"===s){h=A.ps().a
+break $label0$0}if("Dracula"===s){h=A.ps().b
+break $label0$0}if("Clo"===s){h=A.ps().c
 break $label0$0}h=A.ps().b
 break $label0$0}r=e.b
 q=B.d.p(r,j)
